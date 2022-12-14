@@ -1,0 +1,15 @@
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\конвертер.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\конвертер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\конвертер.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\конвертер.AssemblyInfo.cs
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\конвертер.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\bin\Debug\net6.0\конвертер.exe
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\bin\Debug\net6.0\конвертер.deps.json
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\bin\Debug\net6.0\конвертер.runtimeconfig.json
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\bin\Debug\net6.0\конвертер.dll
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\bin\Debug\net6.0\конвертер.pdb
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\конвертер.dll
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\refint\конвертер.dll
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\конвертер.pdb
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\конвертер.genruntimeconfig.cache
+C:\Users\Максим\Desktop\С#\конвертер\конвертер\obj\Debug\net6.0\ref\конвертер.dll
